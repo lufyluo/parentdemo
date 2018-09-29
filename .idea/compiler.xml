@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eurekaserver" />
         <module name="pojos" />
+        <module name="product" />
         <module name="user1" />
       </profile>
     </annotationProcessing>
@@ -15,6 +16,7 @@
       <module name="eurekaserver" target="1.8" />
       <module name="parentdemo" target="1.8" />
       <module name="pojos" target="1.8" />
+      <module name="product" target="1.8" />
       <module name="user1" target="1.8" />
     </bytecodeTargetLevel>
   </component>

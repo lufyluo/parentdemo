@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/parentdemo.iml" filepath="$PROJECT_DIR$/parentdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/pojos/pojos.iml" filepath="$PROJECT_DIR$/pojos/pojos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product/product.iml" filepath="$PROJECT_DIR$/product/product.iml" />
       <module fileurl="file://$PROJECT_DIR$/user1/user1.iml" filepath="$PROJECT_DIR$/user1/user1.iml" />
     </modules>
   </component>
